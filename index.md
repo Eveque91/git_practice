@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Welcome to my Test Project on GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Eveque91/git_practice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a new student and trying out this feature for the first time. I am creating the content for this Page using Markdown that I have just recently learned about !  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have some _very_ basic knowledge of Java and C++ and I am currently in the process of learning how to use Git & Github. 
 
-### Markdown
+----
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## C++ 
 
-```markdown
-Syntax highlighted code block
+I have completed the codecademy course on C++ during which I created short programs such as Space Weight, Text Adventure, Whale Talk and UFO. 
 
-# Header 1
-## Header 2
-### Header 3
+- Space Weight is a very basic program that uses **arithmetic operators** to calculate your weight on other planets using your earth weight. 
+- Text Adventure is a small program that uses **conditional statements** to tell a story based on user input. 
+- Whale Talk is a program that transforms any word or sentence a user inputs to "whale talk", by taking out all of the consonants and doubling some of the vowels. The program uses **loops and arrays**.
+- UFO is a more challenging program that allows the user to play a game of hangman. A random 10 character word is chosen out of 10 different possibilities each time the user plays. It combines the use of **arithmetic operators, conditional statements, loops and arrays**.
 
-- Bulleted
-- List
+For more information on their C++ course, see [here](https://www.codecademy.com/learn/learn-c-plus-plus).
 
-1. Numbered
-2. List
+## Java 
 
-**Bold** and _Italic_ and `Code` text
+I have also completed _another codecademy course_ to build basic android apps using Java and Android Studio. At the end of this course I created an android mobile app called "Unquote".
 
-[Link](url) and ![Image](src)
-```
+During this course I have learned : 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. _Basic_ Java principles and syntax
+2. How to use the _basic features_ of Android Studio
+3. The _basics of XML_ (Extensible Markup Language) 
+4. _Logging and error management_ in Android Studio
+5. Running an android Studio project on a _personal device_.  
 
-### Jekyll Themes
+For more information on their Java course, see [here](https://www.codecademy.com/learn/paths/introduction-to-android-with-java).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eveque91/git_practice/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+--- 
 
-### Support or Contact
+### Conclusion
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you are reading this then (_**WHY?**_) this means that you have read my Github Page and I thank you for sticking with me for this far. I know this isn't much, but I will try to keep at it and improve my page over time (or maybe even create a new one) with some new and hopefully more ambitious projects. 
